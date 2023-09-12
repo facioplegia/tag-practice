@@ -1,2 +1,2 @@
 # tag-practice
-这是一个联系tag的仓库
+这是一个练习tag的仓库
